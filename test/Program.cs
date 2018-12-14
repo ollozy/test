@@ -11,6 +11,7 @@ namespace test
         static void Main(string[] args)
         {
             Console.WriteLine("Знакомство с GitHub");
+            Console.WriteLine("ыыы");
         }
     }
 }
